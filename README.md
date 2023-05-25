@@ -2,9 +2,7 @@
 
 My Tetris clone in C++ with SDL2.
 
-![Screenshot](tetris.png)
-
-# Dependencies
+# Library Using
   * SDL2
   * SDL2_image
   * SDL2_ttf
